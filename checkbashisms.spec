@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Check shell scripts for common bash-specific contructs
 Name:		checkbashisms
 Version:	2.10.64
